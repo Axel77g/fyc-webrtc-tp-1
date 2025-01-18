@@ -1,4 +1,4 @@
-# **Exemple de Correction pour le TP 1 : Création d'un TCHAT paire à paire**
+# **Exemple de Correction pour le TP 1 : Création d'un TCHAT pair-à-pair**
 
 Ceci est un exemple de correction pour le TP 1.  
 
